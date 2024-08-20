@@ -2,11 +2,15 @@
 
 **DepDetect** is a Python-based machine learning application created as a final project for my 3rd Year Elective Course. The application predicts depression in adults aged 25 to 50 by analyzing various behavioral and emotional factors using the XGBoost algorithm.
 
-## How to Use
+## Installation
 
-1. Download the DepDetect files from this repository.
-2. Extract the downloaded files.
-3. Double-click on `DepDetect.exe` to run the application.
+Before running DepDetect, make sure Python is installed. Follow these steps:
+
+Download Python from [Python's official website](https://www.python.org/downloads/).
+
+## How to Run
+Download the repository and extract the files.
+Double-click on DepDetect.py to run the application.
 
 ## Dataset
 
